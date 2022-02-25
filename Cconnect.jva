@@ -1,0 +1,6 @@
+Echo "please enter your name"
+read name
+Echo $Fred
+Echo "please enter passwd"
+Read -s passwd
+
